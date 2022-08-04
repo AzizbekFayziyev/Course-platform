@@ -1,0 +1,134 @@
+[
+    {
+        "category": "Front End HTML5",
+        "icon": "fab fa-html5",
+        "name": "Html",
+        "link": "/courses/html"
+    },
+    {
+        "category": "Front End CSS3",
+        "icon": "fab fa-css3-alt",
+        "name": "Css",
+        "link": "/courses/css"
+    },
+    {
+        "category": "Front End BOOTSTRAP5",
+        "icon": "fab fa-bootstrap",
+        "name": "Bootstrap",
+        "link": "/courses/Bootstrap"
+    },
+    {
+        "category": "Front End JAVASCRIPT",
+        "icon": "fab fa-js-square",
+        "name": "Javascript",
+        "link": "/courses/javascript"
+    },
+    {
+        "category": "Front End React.js",
+        "icon": "fab fa-react",
+        "name": "React.js",
+        "link": "/courses/react"
+    },
+    {
+        "category": "Front End Vue.js",
+        "icon": "fab fa-vuejs",
+        "name": "Vue.js",
+        "link": "/courses/vue"
+    },
+    {
+        "category": "Front End Angular.js",
+        "icon": "fab fa-angular",
+        "name": "Angular.js",
+        "link": "/courses/angular"
+    },
+    {
+        "category": "Front End Svelte.js",
+        "icon": "fab fa-codepen",
+        "name": "Svelte.js",
+        "link": "/courses/svelte"
+    },
+    {
+        "category": "MERN stack full stack",
+        "icon": "fas fa-star",
+        "name": "MERN",
+        "link": "/courses/mern"
+    },
+    {
+        "category": "Back End Php",
+        "icon": "fab fa-php",
+        "name": "Php",
+        "link": "/courses/php"
+    },
+    {
+        "category": "Back End Python",
+        "icon": "fab fa-python",
+        "name": "Python",
+        "link": "/courses/python"
+    },
+    {
+        "category": "Back End Node.js",
+        "icon": "fab fa-node",
+        "name": "Node.js",
+        "link": "/courses/node"
+    },
+    {
+        "category": "Back End Laravel",
+        "icon": "fab fa-laravel",
+        "name": "Laravel",
+        "link": "/courses/laravel"
+    },
+    {
+        "category": "Back End Ios android Java",
+        "icon": "fab fa-java",
+        "name": "Java",
+        "link": "/courses/java"
+    },
+    {
+        "category": "Back End SQL",
+        "icon": "fas fa-database",
+        "name": "SQL",
+        "link": "/courses/sql"
+    },
+    {
+        "category": "Back End Django",
+        "icon": "fab fa-python",
+        "name": "Django",
+        "link": "/courses/django"
+    },
+    {
+        "category": "Data Science",
+        "icon": "fas fa-robot",
+        "name": "Data Sceince",
+        "link": "/courses/Data Science"
+    },
+    {
+        "category": "Ios Swift",
+        "icon": "fab fa-swift",
+        "name": "Swift",
+        "link": "/courses/swift"
+    },
+    {
+        "category": "Android React Native",
+        "icon": "fab fa-react",
+        "name": "React Native",
+        "link": "/courses/react native"
+    },
+    {
+        "category": "Android Ios Flutter Dart",
+        "icon": "fab fa-android",
+        "name": "Flutter & Dart",
+        "link": "/courses/flutter dart"
+    },
+    {
+        "category": "Game Unity",
+        "icon": "fab fa-unity",
+        "name": "Unity",
+        "link": "/courses/unity"
+    },
+    {
+        "category": "Game Unreal Enigne",
+        "icon": "fas fa-gamepad",
+        "name": "Unreal Enigne",
+        "link": "/courses/unreal enigne"
+    }
+]

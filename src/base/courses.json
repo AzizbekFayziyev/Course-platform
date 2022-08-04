@@ -1,0 +1,551 @@
+[
+    {
+        "name": "1 Soatda HTML ni o'rganamiz!",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:14:00",
+        "lang": "UZBEK",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/nUuuIRH0zy0/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/nUuuIRH0zy0",
+        "link": "nUuuIRH0zy0"
+    },
+
+    {
+        "name": "Учим HTML за 1 час!",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:04:44",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/bWNmJqgri4Q/mqdefault.jpg",
+        "frame": "https://www.youtube.com/embed/bWNmJqgri4Q",
+        "link": "bWNmJqgri4Q"
+    },
+
+    {
+        "name": "Learn HTML from zero to hero",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:00:00",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/HD13eq_Pmp8/mqdefault.jpg",
+        "frame": "https://www.youtube.com/embed/HD13eq_Pmp8",
+        "link": "HD13eq_Pmp8"
+    },
+
+    {
+        "name": "Css Boshlang'ich",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:13:59",
+        "lang": "UZBEK",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/eSJsmdiggMQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCezr3MUZ0rZumH0BK4jRwr-_CPw",
+        "frame": "https://www.youtube.com/embed/eSJsmdiggMQ",
+        "link": "eSJsmdiggMQ"
+    },
+
+    {
+        "name": "Учим CSS за 1 час!",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:26:01",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/iPV5GKeHyV4/mqdefault.jpg",
+        "frame": "https://www.youtube.com/embed/iPV5GKeHyV4",
+        "link": "iPV5GKeHyV4"
+    },
+
+    {
+        "name": "Learn Css in 1 hour",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:00:00",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/wRNinF7YQqQ/mqdefault.jpg",
+        "frame": "https://www.youtube.com/embed/wRNinF7YQqQ",
+        "link": "wRNinF7YQqQ"
+    },
+
+    {
+        "name": "Bootstrap to'liq kurs",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "7:17:13",
+        "lang": "UZBEK",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/KGyyAWCue4g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCl_Wnhw8zkjXrYkF6fw-E044UQIg",
+        "frame": "https://www.youtube.com/embed/KGyyAWCue4g",
+        "link": "KGyyAWCue4g"
+    },
+
+    {
+        "name": "Bootstrap верстка современного сайта",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "0:46:42",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/46q2eB7xvXA/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/46q2eB7xvXA",
+        "link": "46q2eB7xvXA"
+    },
+
+    {
+        "name": "Bootstrap CSS Framework For Beginners",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "02:46:21",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/-qfEOE4vtxE/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/-qfEOE4vtxE",
+        "link": "-qfEOE4vtxE"
+    },
+
+    {
+        "name": "JavaScript va ES6 1 soatda",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:00:06",
+        "lang": "UZBEK",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/XYxyZ7B6qnI/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/XYxyZ7B6qnI",
+        "link": "XYxyZ7B6qnI"
+    },
+
+    {
+        "name": "JavaScript - Полный Курс JavaScript Для Начинающих",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "10:55:33",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/CxgOKJh4zWE/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/CxgOKJh4zWE",
+        "link": "CxgOKJh4zWE"
+    },
+
+    {
+        "name": "JavaScript Programming - Full Course",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "7:44:19",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/jS4aFq5-91M/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/jS4aFq5-91M",
+        "link": "jS4aFq5-91M"
+    },
+
+    {
+        "name": "React JS - yangi boshlanuvchilar uchun reaktiv qo'llanma",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "2:11:36",
+        "lang": "UZBEK",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/Sz9keiVFcwg/mqdefault.jpg",
+        "frame": "https://www.youtube.com/embed/xyBDrs--eTQ",
+        "link": "xyBDrs--eTQ"
+    },
+
+    {
+        "name": "React JS фундаментальный курс от А до Я",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "3:01:07",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/GNrdg3PzpJQ/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/GNrdg3PzpJQ",
+        "link": "GNrdg3PzpJQ"
+    },
+
+    {
+        "name": "React Course - Beginner's Tutorial",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "11:55:28",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/bMknfKXIFA8/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/bMknfKXIFA8",
+        "link": "bMknfKXIFA8"
+    },
+
+    {
+        "name": "Vue.js Real Loyiha",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:32:50",
+        "lang": "UZBEK",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/UUjt-6DG0tM/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/UUjt-6DG0tM",
+        "link": "UUjt-6DG0tM"
+    },
+
+    {
+        "name": "Vue 3 фундаментальный курс от А до Я",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "3:01:25",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/XzLuMtDelGk/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/XzLuMtDelGk",
+        "link": "XzLuMtDelGk"
+    },
+
+    {
+        "name": "Vue.js Course for Beginners",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "3:39:55",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/FXpIoQ_rT_c/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/FXpIoQ_rT_c",
+        "link": "FXpIoQ_rT_c"
+    },
+
+    {
+        "name": "Angular Основы. Полный Курс для начинающих",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:42:44",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/Rf54BH35yrY/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/Rf54BH35yrY",
+        "link": "Rf54BH35yrY"
+    },
+
+    {
+        "name": "Angular Full Course - Learn Angular in 6 Hours",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "6:08:09",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/Ati-oip_HcU/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/Ati-oip_HcU",
+        "link": "Ati-oip_HcU"
+    },
+
+    {
+        "name": "Пишем ToDo на Svelte.js: практический урок",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:17:02",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/IPhnq59EK8E/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/IPhnq59EK8E",
+        "link": "IPhnq59EK8"
+    },
+
+    {
+        "name": "Learn the Svelte JavaScript Framework",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "7:10:52",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/ujbE0mzX-CU/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/ujbE0mzX-CU",
+        "link": "ujbE0mzX-CU"
+    },
+
+    {
+        "name": "MERN Stack loyiha",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "2:29:24",
+        "lang": "UZBEK",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/s6suSZV1Y10/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/s6suSZV1Y10",
+        "link": "s6suSZV1Y10"
+    },
+
+    {
+        "name": "Полный MERN Stack курс за 4 часа!",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "4:24:12",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "",
+        "frame": "https://www.youtube.com/embed/GQ_pTmcXNrQ",
+        "link": "GQ_pTmcXNrQ"
+    },
+
+    {
+        "name": "Learn the MERN Stack - Full Tutorial",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:47:01",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/7CqJlxBYj-M/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/7CqJlxBYj-M",
+        "link": "7CqJlxBYj-M"
+    },
+
+    {
+        "name": "PHP da web ilovalar ishlab chiqish",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "0:55:26",
+        "lang": "UZBEK",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/ZzskclrpVLE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB16xWhcgGhzZDuoQw-ESo-OAgHVA",
+        "frame": "https://www.youtube.com/embed/ZzskclrpVLE",
+        "link": "ZzskclrpVLE"
+    },
+
+    {
+        "name": "Видео курс по языку PHP, Язык программирования PHP в одном уроке",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "7:49:45",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/M-peGbXCvNA/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/M-peGbXCvNA",
+        "link": "M-peGbXCvNA"
+    },
+
+    {
+        "name": "PHP Programming Language Tutorial - Full Course",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "4:36:38",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/OK_JCtrrv-c/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/OK_JCtrrv-c",
+        "link": "OK_JCtrrv-c"
+    },
+
+    {
+        "name": "PYTHON VIDEO KURS O'ZBEK TILIDA",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:06:03",
+        "lang": "UZBEK",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/nrUvGrwUM_w/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/nrUvGrwUM_w",
+        "link": "nrUvGrwUM_w"
+    },
+
+    {
+        "name": "Учим Python за 1 час!",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "0:59:00",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/P0czP5MEbYQ/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/fp5-XQFr_nk",
+        "link": "fp5-XQFr_nk"
+    },
+
+    {
+        "name": "Python Tutorial - Python Full Course for Beginners",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "6:14:06",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/_uQrJ0TkZlc/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/_uQrJ0TkZlc",
+        "link": "_uQrJ0TkZlc"
+    },
+
+    {
+        "name": "NodeJS xaqida batafsil",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:24:39",
+        "lang": "UZBEK",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/ZSVCO0-lFwg/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/ZSVCO0-lFwg",
+        "link": "ZSVCO0-lFwg"
+    },
+
+    {
+        "name": "NodeJS. Полный курс",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "2:43:47",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/nu4PiyjAmAE/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/nu4PiyjAmAE",
+        "link": "nu4PiyjAmAE"
+    },
+
+    {
+        "name": "Node.js and Express.js - Full Course",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "8:16:47",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/Oe421EPjeBE/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/Oe421EPjeBE",
+        "link": "Oe421EPjeBE"
+    },
+
+    {
+        "name": "Полный курс Laravel 01",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "2:35:10",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/aNcbYt8BykY/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/aNcbYt8BykY",
+        "link": "aNcbYt8BykY"
+    },
+
+    {
+        "name": "Laravel php framework",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "4:25:04",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/ImtZ5yENzgE/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/ImtZ5yENzgE",
+        "link": "ImtZ5yENzgE"
+    },
+
+    {
+        "name": "Java Dasturlash Tilini Bitta Videoda O'rganing",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:04:13",
+        "lang": "UZBEK",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/9S9M1LpfBQc/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/9S9M1LpfBQc",
+        "link": "9S9M1LpfBQc"
+    },
+
+    {
+        "name": "Изучение Java в одном видео уроке за час!",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:06:57",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/pCJsAzWecbk/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/pCJsAzWecbk",
+        "link": "pCJsAzWecbk"
+    },
+
+    {
+        "name": "Java full course",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "12:00:00",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.pinimg.com/736x/a5/bc/d8/a5bcd8d85de4491df5f3a8bed1ace2e1.jpg",
+        "frame": "https://www.youtube.com/embed/xk4_1vDrzzo",
+        "link": "xk4_1vDrzzo"
+    },
+
+    {
+        "name": "Учим SQL Базы Данных за 1 час! ",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:07:49",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/ZKU7-ktaa2o/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/ZKU7-ktaa2o",
+        "link": "ZKU7-ktaa2o"
+    },
+
+    {
+        "name": "SQL Tutorial - Full Database Course for Beginners",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "4:20:38",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/HXV3zeQKqGY/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/HXV3zeQKqGY",
+        "link": "HXV3zeQKqGY"
+    },
+
+    {
+        "name": "Учим Python DJANGO за 1 час!",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:36:08",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/w4nrT7emiVc/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/w4nrT7emiVc",
+        "link": "w4nrT7emiVc"
+    },
+
+    {
+        "name": "Python Django Web Framework - Full Course for Beginners",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "3:45:40",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/F5mRW0jo-U4/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/F5mRW0jo-U4",
+        "link": "F5mRW0jo-U4"
+    },
+
+    {
+        "name": "Data Science Full Course - Learn Data Science in 10 Hours",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "10:23:56",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/-ETQ97mXXF0/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/-ETQ97mXXF0",
+        "link": "-ETQ97mXXF0"
+    },
+
+    {
+        "name": "Основы Swift. Полный курс",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "5:31:41",
+        "lang": "RUSSIAN",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/ZJcVUSfdVyo/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/ZJcVUSfdVyo",
+        "link": "ZJcVUSfdVyo"
+    },
+
+    {
+        "name": "Learn Swift Fast - Full Course For Beginners",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "3:08:07",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/FcsY1YPBwzQ/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/FcsY1YPBwzQ",
+        "link": "FcsY1YPBwzQ"
+    },
+
+    {
+        "name": "The Complete React Native Course 2021 : from Zero to Hero",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "6:45:20",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/ANdSdIlgsEw/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/ANdSdIlgsEw",
+        "link": "ANdSdIlgsEw"
+    },
+
+    {
+        "name": "Flutter dart Course for Beginners – 37-hour Cross Platform App Development Tutorial",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "1:12:39:21",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/VPvVD8t02U8/mqdefault.jpg",
+        "frame": "https://www.youtube.com/embed/VPvVD8t02U8",
+        "link": "VPvVD8t02U8"
+    },
+
+    {
+        "name": "Learn Unity - Beginner's Game Development Tutorial",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "7:24:39",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/gB1F9G0JXOo/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/gB1F9G0JXOo",
+        "link": "gB1F9G0JXOo"
+    },
+
+    {
+        "name": "Unreal enigne game development basic to advance full course",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quae earum, optio libero itaque ab modi culpa vel minus quis voluptatibus inventore ipsa at iste repellendus assumenda sequi voluptates hic?",
+        "time": "8:55:10",
+        "lang": "ENGLISH",
+        "type": "FREE",
+        "image": "https://i.ytimg.com/vi/6luTavBJ3gw/maxresdefault.jpg",
+        "frame": "https://www.youtube.com/embed/6luTavBJ3gw",
+        "link": "6luTavBJ3gw"
+    }
+]
